@@ -1,0 +1,3 @@
+[submodule "snipmate-snippets/snippets"]
+	path = snipmate-snippets/snippets
+	url = https://github.com/jeffyjs/Code_with_mosh.git
